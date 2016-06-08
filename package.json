@@ -1,0 +1,23 @@
+{
+  "name": "youyidecai-demo",
+  "version": "1.0.0",
+  "description": "youyidecai app of vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "vue webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youyidecai/youyidecai-demo.git"
+  },
+  "keywords": [
+    "vue",
+    "webpack"
+  ],
+  "author": "youyidecai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youyidecai/youyidecai-demo/issues"
+  },
+  "homepage": "https://github.com/youyidecai/youyidecai-demo#readme"
+}
